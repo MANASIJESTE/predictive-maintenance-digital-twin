@@ -1,0 +1,14 @@
+{
+  "machineID": 1,
+  "timestamp": "2015-10-01 08:00:00",
+  "failure_risk_24h": 0.6308,
+  "health_state": "degraded",
+  "likely_component": "comp2",
+  "confidence": "low",
+  "main_evidence": [
+    "vibration is unusual compared with training baseline",
+    "rotate std 3h is unusual compared with training baseline",
+    "pressure std 3h is unusual compared with training baseline"
+  ],
+  "prescription": "schedule_maintenance"
+}

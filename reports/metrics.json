@@ -1,0 +1,20 @@
+{
+  "threshold": 0.7222555177163885,
+  "pr_auc": 0.4827447096365677,
+  "roc_auc": 0.9726075945744946,
+  "precision_at_threshold": 0.4943231441048035,
+  "recall_at_threshold": 0.48782589959060546,
+  "f1_score": 0.49105303112460685,
+  "confusion_matrix": [
+    [
+      255843,
+      2316
+    ],
+    [
+      2377,
+      2264
+    ]
+  ],
+  "false_alarms_per_machine_month": 6.374311926605505,
+  "alarm_definition": "An alarm is predicted when failure_risk_24h >= selected threshold for a machine-hour row."
+}

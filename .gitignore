@@ -8,5 +8,8 @@ artifacts/*
 !artifacts/.gitkeep
 reports/*
 !reports/.gitkeep
+!reports/*.png
+!reports/*.json
+!reports/*.csv
 mlruns/
 .pytest_cache/

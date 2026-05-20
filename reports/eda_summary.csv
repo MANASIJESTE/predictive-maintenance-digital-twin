@@ -1,0 +1,12 @@
+metric,value
+telemetry_rows,876100
+errors_rows,3919
+maintenance_rows,3286
+failures_rows,761
+machines_rows,100
+n_machines,100
+telemetry_start,2015-01-01 06:00:00
+telemetry_end,2016-01-01 06:00:00
+n_failure_events,761
+n_error_events,3919
+n_maintenance_events,3286
